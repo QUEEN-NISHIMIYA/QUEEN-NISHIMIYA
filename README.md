@@ -1,8 +1,8 @@
  
 <p align="center">  
-  <a href="https://github.com/Guru322">
-    <img alt="Guru" height="300" src="https://i.ibb.co/dW8DNtY/Blog-log.png">
-    <h1 align="center">Hy 👋 Guru Here</h1>
+  <a href="https://github.com/QUEEN-NISHIMIYA">
+    <img alt="Guru" height="300" src="https://te.legra.ph/file/762d89740bc93caaef8e0.jpg">
+    <h1 align="center">Hy 👋 IZUMIE Here</h1>
   </a>
 </p>
 <p align="center">
@@ -12,8 +12,8 @@
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Guru322)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NAKLI_GURU)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/QUEEN-NISHIMIYA)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IZUMIE_XENPAI)
 
 ## Listening to
 <p align = "middle">
@@ -25,19 +25,19 @@
 ## My github stats 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QUEEN-NISHIMIYA/QUEEN-NISHIMIYA/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QUEEN-NISHIMIYA/QUEEN-NISHIMIYA/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QUEEN-NISHIMIYA/QUEEN-NISHIMIYA/output/github-contribution-grid-snake.svg">
 </picture>
 
 <p align="center">
     <img
         width="52%"
-        src="https://github-readme-stats.vercel.app/api?username=Guru322&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=QUEEN-NISHIMIYA&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=Guru322&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=QUEEN-NISHIMIYA&theme=tokyonight"
     />
 </p>
 
